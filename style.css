@@ -1,0 +1,43 @@
+.img{
+    position: relative;
+   
+}
+
+.name{
+    position: absolute;
+    margin-top: 95%;
+    margin-left: 5%;
+}
+
+.box1{
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    height: 53%;
+}
+
+.box2{
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    height: 47%;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    height: 150px;
+    background-color: hwb(165 15% 51%);
+    align-items: center;
+
+}
+
+
+.dt1{
+    color: hwb(165 15% 51%);
+    
+}
+.dt2{
+    color: hwb(165 15% 51%);
+    margin-left: 2%;
+}
+
+
